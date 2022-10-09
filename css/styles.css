@@ -366,6 +366,27 @@ img {
     gap: 30px;
 }
 
+.section-work .item {
+    position: relative;
+}
+
+.section-work .item-name {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    justify-content: center;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    background-color: rgba(47, 48, 58, 0.8);
+    color: var(--white-color-text);
+}
+
 /*  h2 для section-work і our-team */
 
 
