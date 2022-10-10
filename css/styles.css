@@ -31,14 +31,7 @@
 
 
 header {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-
-    z-index: 1;
     border-bottom: 1px solid var(--border-header);
-    background-color: var(--white-color-text);
 }
 
 
@@ -198,8 +191,8 @@ img {
 .contact .link {
     display: flex;
     align-items: center;
-    padding-top: 32px;
-    padding-bottom: 32px;
+    padding-top: 31px;
+    padding-bottom: 31px;
 
     background-color: var(--white-color-text);
     color: var(--second-color);
