@@ -42,7 +42,6 @@ body {
     color: var(--primary-color-text);
     font-family: Roboto, sans-serif;
     letter-spacing: 0.03em;
-    padding-top: 80px;
 }
 
 h1,
